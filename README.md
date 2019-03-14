@@ -1,2 +1,2 @@
 # hoera
-H.ØR,A
+H.ØR.A
